@@ -25,7 +25,7 @@ PATH="$HOME/local/lib/elasticsearch/bin/:$PATH"
 
 
 #alias
-alias alba="cd ~/workspace/albanero"
+alias repo="cd ~/workspace/repo"
 alias nn="cd ~/workspace/nitesh"
 alias del="rm -rf"
 alias graph='git log --oneline --all --decorate --graph'
